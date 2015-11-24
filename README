@@ -1,0 +1,24 @@
+This is a set of additional fonts for the Texas Instruments
+MSP/Tiva/Stellaris Graphics Library.
+
+These fonts are sourced from the bitmap fonts shipped with
+the X Window System.
+
+Licenses are contained in each font file.  (Most fonts
+require that their copyright message is included in your
+device's documentation.)
+
+copyright holders:
+
+Charter                 Bitstream
+Courier                 Adobe
+Fixed (8x16, 12x24)     Sony
+Fixed (other)           (public domain)
+Helvetica               Adobe
+Lucida Bright           Bigelow & Holmes
+Lucida Sans             Bigelow & Holmes
+Lucida Typewriter       Bigelow & Holmes
+New Century Schoolbook  Adobe
+Terminal                Bitstream
+Terminus                Dimitar Toshkov Zhekov
+Times                   Adobe
